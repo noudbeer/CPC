@@ -1,3 +1,21 @@
+# Documentation installation du dépot
+1. Cloner le dépot
+2. Ouvrir une console shell
+3. Se placer dans le dossier du projet
+4. Lancer la commande suivante : ```$ docker-compose up -d```
+5. Ouvrir l'url http://localhost:8001/ dans un navigateur
+
+Pour changer de branche:
+```git checkout <nom de la branche>```
+
+Pour récupérer les modification de la branche:
+```git pull```
+
+Pour pousser les modification sur git:
+```git push```
+
+# Documentation de Prestashop
+
 About PrestaShop
 --------
 
